@@ -1,0 +1,4 @@
+# argmax(qtable[state]) selectionne l'indice de la plus grande action située a la ieme ligne avec i = state
+
+l'equation de bellman retourne la valeur des differents états (Assimilables à des probas)
+il y'a 16 etats tous differents les un des autres 
